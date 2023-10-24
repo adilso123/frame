@@ -1,0 +1,30 @@
+.Topo {
+  text-align: center;
+  font-size: 24px;
+  background-color: #4287f5;; 
+  margin-top: 0;
+  margin-bottom: 0;
+  color: white;
+}
+
+.Rodapé {
+  text-align: center;
+  background-color: #4c4c4c;; 
+  color: orange; 
+  padding: 10px;
+  width: 100%;
+  position: relative;
+  margin-top: 0;
+}
+
+.Estilização {
+  background-color: #ffd600; 
+  color: brown; 
+}
+
+.Estilização p {
+  background-color: #34e37c; 
+  font-style: unset;
+  font-size: larger;
+  color: black; 
+}
